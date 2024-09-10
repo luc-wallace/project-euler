@@ -22,4 +22,3 @@ while True:
         print(triangle)
         break
     i += 1
-
